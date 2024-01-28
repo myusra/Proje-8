@@ -1,0 +1,678 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit CoreSingleLanguage' Language: 'tr' Physical Memory: 6005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/Lenovo/OneDrive/Desktop/GITHUB/Proje-8/Sekizinci proje
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+58050
+Successfully changed project path to: C:/Users/Lenovo/OneDrive/Desktop/GITHUB/Proje-8/Sekizinci proje
+C:/Users/Lenovo/OneDrive/Desktop/GITHUB/Proje-8/Sekizinci proje
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [24332] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 3606556660 [EditorId] 3606556660 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-ONV9P03E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [24332] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 3606556660 [EditorId] 3606556660 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-ONV9P03E) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 13.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Lenovo/OneDrive/Desktop/GITHUB/Proje-8/Sekizinci proje/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   ATI
+    VRAM:     3002 MB
+    Driver:   31.0.12044.56000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56968
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009887 seconds.
+- Loaded All Assemblies, in  0.441 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 917 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.347 seconds
+Domain Reload Profiling: 1786ms
+	BeginReloadAssembly (122ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (72ms)
+	LoadAllAssembliesAndSetupDomain (190ms)
+		LoadAssemblies (119ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (187ms)
+			TypeCache.Refresh (186ms)
+				TypeCache.ScanAssembly (170ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (1348ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1269ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1088ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (121ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.769 seconds
+Refreshing native plugins compatible for Editor in 3.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.768 seconds
+Domain Reload Profiling: 1533ms
+	BeginReloadAssembly (171ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (27ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (492ms)
+		LoadAssemblies (340ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (243ms)
+			TypeCache.Refresh (219ms)
+				TypeCache.ScanAssembly (197ms)
+			ScanForSourceGeneratedMonoScriptInfo (18ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (768ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (569ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (32ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (78ms)
+			ProcessInitializeOnLoadAttributes (416ms)
+			ProcessInitializeOnLoadMethodAttributes (29ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 4.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3095 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (56.8 KB). Loaded Objects now: 3559.
+Memory consumption went from 127.5 MB to 127.5 MB.
+Total: 3.577200 ms (FindLiveObjects: 0.426800 ms CreateObjectMapping: 0.186900 ms MarkObjects: 2.827100 ms  DeleteObjects: 0.134500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Top.cs: 2d44a893118c9bafef13fa0d52b76337 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/RollerBall.cs: b70bff81a732fa44630dec45f693b580 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1325269.690717 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Buttons/btn_+_hov.png
+  artifactKey: Guid(bd0bdd5816e276349a77710399b37ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Buttons/btn_+_hov.png using Guid(bd0bdd5816e276349a77710399b37ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec73056290873b3aea8f8494e7b17b02') in 0.169445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Buttons/btn_-_reg.png
+  artifactKey: Guid(11d5273305926bc43be579590ce733ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Buttons/btn_-_reg.png using Guid(11d5273305926bc43be579590ce733ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c42a82abf1c289bc453be8ed631c1b') in 0.020482 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.495640 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Counter/counter.png
+  artifactKey: Guid(809919c1b41cc3e4ab5db812909bb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Counter/counter.png using Guid(809919c1b41cc3e4ab5db812909bb953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d8e000f09ee853abbe95c3435b9fda') in 0.022172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.111734 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Cursors/cursor_down.png
+  artifactKey: Guid(218a0cd7508a9ed40bb3eb869407728d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Cursors/cursor_down.png using Guid(218a0cd7508a9ed40bb3eb869407728d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4501ee671a96a3332f9232a68f687c3') in 0.034530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Cursors/cursor_up.png
+  artifactKey: Guid(b6c0256dde714bc448b7233d81081341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Cursors/cursor_up.png using Guid(b6c0256dde714bc448b7233d81081341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e92266549edfb7ecc8ca404085baf57') in 0.020850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.156600 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_back.png
+  artifactKey: Guid(a659cdf07744db04786ca6d3824f3ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_back.png using Guid(a659cdf07744db04786ca6d3824f3ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7fd7aced9d6c61f3a95ec355a05a375') in 0.034686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_twitter.png
+  artifactKey: Guid(e32a9a52583e31f4eaec0f9b86d80b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_twitter.png using Guid(e32a9a52583e31f4eaec0f9b86d80b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f199fb9bce1733b9dc834d7db091b1c3') in 0.025085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_menu.png
+  artifactKey: Guid(e2e3508a5f78a13478d11608e46e2f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Flat Icons/flat_icon_menu.png using Guid(e2e3508a5f78a13478d11608e46e2f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd923c2f0886b949f4c52d8d87a5c2126') in 0.023927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.307181 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_apple.png
+  artifactKey: Guid(dfd310b82f14c254c82e8b1ff3f84a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_apple.png using Guid(dfd310b82f14c254c82e8b1ff3f84a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eea5a6ac296c31e08de3867557898510') in 0.025844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_cherries.png
+  artifactKey: Guid(65df13acd5ced294ba181461f2871ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_cherries.png using Guid(65df13acd5ced294ba181461f2871ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377c19ef445b139671021fa8013b273a') in 0.027915 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_heart.png
+  artifactKey: Guid(1b070a9071c40114c83964d47755c2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_heart.png using Guid(1b070a9071c40114c83964d47755c2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859bebc98e98dda9e3f4e0a5dafd38b8') in 0.022009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_button.png
+  artifactKey: Guid(8593908a37a47a44f9c674317c1aec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_button.png using Guid(8593908a37a47a44f9c674317c1aec0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05353d118b32addd463f2cbd89af736c') in 0.025015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_star.png
+  artifactKey: Guid(c2feaa3a1e949f0419c7903412236463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_star.png using Guid(c2feaa3a1e949f0419c7903412236463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7f019247d001e1c72b84a1a2b9c7bd4') in 0.029679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_bomb.png
+  artifactKey: Guid(c44178f904e583e45b2c0bce3d8db6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_bomb.png using Guid(c44178f904e583e45b2c0bce3d8db6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2e15f0670de16736762c0189837eed') in 0.025958 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_cup.png
+  artifactKey: Guid(11d9e83b35b495c40bfca193fb7d40f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_cup.png using Guid(11d9e83b35b495c40bfca193fb7d40f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3180a5915028f7d910cf7169df5752a7') in 0.023378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_paperclip.png
+  artifactKey: Guid(a5f91f39fdd458f47931e2dfd4060c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons/icon_paperclip.png using Guid(a5f91f39fdd458f47931e2dfd4060c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26698aab103733437c0839dc7e539a6') in 0.027104 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 7.405618 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_block.png
+  artifactKey: Guid(b9fcd50da7785f243ade89118753c516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_block.png using Guid(b9fcd50da7785f243ade89118753c516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff4c53728067e508921875bde4eebac3') in 0.029802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_star_3.png
+  artifactKey: Guid(75f5c286c299d534ba06bb482172720f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_star_3.png using Guid(75f5c286c299d534ba06bb482172720f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40434643de824bdb1874221b915e8b0c') in 0.035126 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_star_single_left.png
+  artifactKey: Guid(470df016d083bf049a13bca3bc769cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_star_single_left.png using Guid(470df016d083bf049a13bca3bc769cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd67da55f20f777dd4b54296845f42020') in 0.024288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_lock_block_pressed.png
+  artifactKey: Guid(c4baf21f65af25740947108dbee38546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Lvl/lvl_lock_block_pressed.png using Guid(c4baf21f65af25740947108dbee38546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfff066956253e3b65d7a9e504479af2') in 0.027680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.990045 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Panels/panel.png
+  artifactKey: Guid(89cd0b826df89254695514558c885bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Panels/panel.png using Guid(89cd0b826df89254695514558c885bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845f98f7aee125772151bda474ba03f7') in 0.035240 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Panels/panel_top_ribbon.png
+  artifactKey: Guid(b3792716dd918b04cbe83a8342323feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Panels/panel_top_ribbon.png using Guid(b3792716dd918b04cbe83a8342323feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '307d186f69086b0c0cc288a7c6928430') in 0.024626 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.136088 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Rewards/reward_slot_info.png
+  artifactKey: Guid(4b81988b54ef5c24d9896a4bb981be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Rewards/reward_slot_info.png using Guid(4b81988b54ef5c24d9896a4bb981be8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dbc0297d8b890c7efba4292da96dda7') in 0.032906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Rewards/reward_stars_2.png
+  artifactKey: Guid(eaa141f45a62fa848aa62abe21ff5cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Rewards/reward_stars_2.png using Guid(eaa141f45a62fa848aa62abe21ff5cef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e99a5e18d7f43fcdfb46c10e22248469') in 0.028133 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.738993 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Store/store_block.png
+  artifactKey: Guid(f3e3cd48e615ffc4dbd4cf51eeec4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Store/store_block.png using Guid(f3e3cd48e615ffc4dbd4cf51eeec4da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa2a0629429b9c9a7a61b81643edc13') in 0.027401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.057861 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Textfield/scrollbar.png
+  artifactKey: Guid(60864a6eb1b80bd47b1317fed5105fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Textfield/scrollbar.png using Guid(60864a6eb1b80bd47b1317fed5105fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22082617c91cb83fadc7b8be78112af1') in 0.029988 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Textfield/text_sep_big.png
+  artifactKey: Guid(98203d30acd83e34c9e595fbac90025d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Textfield/text_sep_big.png using Guid(98203d30acd83e34c9e595fbac90025d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0fed63858ff53f2a4df89b2704066e') in 0.022398 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 292.184110 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/Fonts
+  artifactKey: Guid(b517ada1bef1d7f48a41791d02906d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/Fonts using Guid(b517ada1bef1d7f48a41791d02906d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea2359b1f9b348029018169a8a952598') in 0.008401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.159813 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements
+  artifactKey: Guid(cda67d8fa69eedc4495e50a0ce293f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements using Guid(cda67d8fa69eedc4495e50a0ce293f50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cafbc2cea35a1ab047cae558a6a4835') in 0.001055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.695829 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons
+  artifactKey: Guid(6cd3ea6e9ba838042a42a4de0125cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Icons using Guid(6cd3ea6e9ba838042a42a4de0125cffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f3d246811824004f019b95669f1d8d') in 0.001032 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 12404.211176 seconds.
+  path: Assets/Scripts/TopKontrol.cs
+  artifactKey: Guid(91128265124ae834eb2d8117d3ce4a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/TopKontrol.cs using Guid(91128265124ae834eb2d8117d3ce4a0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54ea04d0e9cf781c87127e4948aef0e') in 0.017262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.736 seconds
+Refreshing native plugins compatible for Editor in 6.17 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.279 seconds
+Domain Reload Profiling: 5011ms
+	BeginReloadAssembly (1111ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (2ms)
+		CreateAndSetChildDomain (326ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (57ms)
+	LoadAllAssembliesAndSetupDomain (1494ms)
+		LoadAssemblies (2044ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (69ms)
+			TypeCache.Refresh (37ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (2280ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (533ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (42ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (69ms)
+			ProcessInitializeOnLoadAttributes (363ms)
+			ProcessInitializeOnLoadMethodAttributes (41ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Refreshing native plugins compatible for Editor in 10.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3593.
+Memory consumption went from 127.7 MB to 127.6 MB.
+Total: 9.988300 ms (FindLiveObjects: 0.557900 ms CreateObjectMapping: 0.324600 ms MarkObjects: 8.718200 ms  DeleteObjects: 0.385800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Top.cs: 2d44a893118c9bafef13fa0d52b76337 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/RollerBall.cs: b70bff81a732fa44630dec45f693b580 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.600 seconds
+Refreshing native plugins compatible for Editor in 11.86 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.881 seconds
+Domain Reload Profiling: 4481ms
+	BeginReloadAssembly (1091ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (35ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (398ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (1410ms)
+		LoadAssemblies (1846ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (72ms)
+			TypeCache.Refresh (38ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (20ms)
+			ResolveRequiredComponents (13ms)
+	FinalizeReload (1881ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (430ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (40ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (288ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 5.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3087 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3596.
+Memory consumption went from 129.9 MB to 129.8 MB.
+Total: 7.369700 ms (FindLiveObjects: 0.665100 ms CreateObjectMapping: 0.171700 ms MarkObjects: 6.418500 ms  DeleteObjects: 0.112500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Top.cs: 2d44a893118c9bafef13fa0d52b76337 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/RollerBall.cs: b70bff81a732fa44630dec45f693b580 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.358 seconds
+Refreshing native plugins compatible for Editor in 12.70 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.646 seconds
+Domain Reload Profiling: 6003ms
+	BeginReloadAssembly (1657ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (48ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (645ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (1584ms)
+		LoadAssemblies (2301ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (76ms)
+			TypeCache.Refresh (47ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (2646ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (685ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (55ms)
+			SetLoadedEditorAssemblies (9ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (101ms)
+			ProcessInitializeOnLoadAttributes (470ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Refreshing native plugins compatible for Editor in 7.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3087 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.0 KB). Loaded Objects now: 3599.
+Memory consumption went from 131.8 MB to 131.7 MB.
+Total: 14.973500 ms (FindLiveObjects: 0.963100 ms CreateObjectMapping: 0.338200 ms MarkObjects: 13.468900 ms  DeleteObjects: 0.201100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Top.cs: 2d44a893118c9bafef13fa0d52b76337 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/RollerBall.cs: b70bff81a732fa44630dec45f693b580 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 3466.513108 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/settings_box.png
+  artifactKey: Guid(8962ab125556c8640af7d301d5c1e476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/settings_box.png using Guid(8962ab125556c8640af7d301d5c1e476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79e0f4266e3889a42b7cff8eec44616') in 0.832345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.137662 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/settings_checkbox_lock.png
+  artifactKey: Guid(6da83853981303c46a7e5fbc416b74a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/settings_checkbox_lock.png using Guid(6da83853981303c46a7e5fbc416b74a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10669c7a1f8a39f972ed30063ea8a5ab') in 0.117173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/slider_blue.png
+  artifactKey: Guid(a6ed557d69d79eb478d940b220e22718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HONETi/mobile_cartoon_GUI/GUI Elements/Settings/slider_blue.png using Guid(a6ed557d69d79eb478d940b220e22718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ff052f122367aebd2f489d84605093') in 0.040407 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
